@@ -1,0 +1,1812 @@
+{
+    "items": [
+        {
+            "result": "lose",
+            "endTime": "20240914T160944.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 17,
+                "stars": 32,
+                "destructionPercentage": 80.6,
+                "expEarned": 154
+            },
+            "opponent": {
+                "tag": "#2G8JRGGR8",
+                "name": "Campeones Del M",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/aSmmo26-FpoiyxIn3VAVQfYpvB9QhwRk0K9cpqqUmfU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/aSmmo26-FpoiyxIn3VAVQfYpvB9QhwRk0K9cpqqUmfU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/aSmmo26-FpoiyxIn3VAVQfYpvB9QhwRk0K9cpqqUmfU.png"
+                },
+                "clanLevel": 10,
+                "stars": 39,
+                "destructionPercentage": 96.13333
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20240911T074446.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 71,
+                "stars": 192,
+                "destructionPercentage": 410.33334,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 161,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240830T010138.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 14,
+                "stars": 30,
+                "destructionPercentage": 100.0,
+                "expEarned": 174
+            },
+            "opponent": {
+                "tag": "#2J0U9Y8LL",
+                "name": "Diesel Mech\u2019s",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/GlfPJQF8hS8y_3qk0sdhKZ1x7uCsO2yWwdHb9Dc-wvM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/GlfPJQF8hS8y_3qk0sdhKZ1x7uCsO2yWwdHb9Dc-wvM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/GlfPJQF8hS8y_3qk0sdhKZ1x7uCsO2yWwdHb9Dc-wvM.png"
+                },
+                "clanLevel": 2,
+                "stars": 23,
+                "destructionPercentage": 81.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240822T142250.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 18,
+                "stars": 40,
+                "destructionPercentage": 90.2,
+                "expEarned": 151
+            },
+            "opponent": {
+                "tag": "#2QVVVR9JL",
+                "name": "Distintillos",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/STxmHEG4ZP8wqkqQStyYdvKZWW6AJhbA6xK6eTTYqKY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/STxmHEG4ZP8wqkqQStyYdvKZWW6AJhbA6xK6eTTYqKY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/STxmHEG4ZP8wqkqQStyYdvKZWW6AJhbA6xK6eTTYqKY.png"
+                },
+                "clanLevel": 8,
+                "stars": 43,
+                "destructionPercentage": 98.933334
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240818T023216.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 13,
+                "stars": 37,
+                "destructionPercentage": 83.6,
+                "expEarned": 130
+            },
+            "opponent": {
+                "tag": "#2LUYPVLR2",
+                "name": "the family 503",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/uHyeSMnSdeaOovLiK_1NeP2Zhjf7Iey1Ctk486eqg1U.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/uHyeSMnSdeaOovLiK_1NeP2Zhjf7Iey1Ctk486eqg1U.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/uHyeSMnSdeaOovLiK_1NeP2Zhjf7Iey1Ctk486eqg1U.png"
+                },
+                "clanLevel": 9,
+                "stars": 43,
+                "destructionPercentage": 97.26667
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20240811T090605.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 69,
+                "stars": 185,
+                "destructionPercentage": 410.86667,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 177,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240730T164014.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 15,
+                "stars": 28,
+                "destructionPercentage": 96.2,
+                "expEarned": 114
+            },
+            "opponent": {
+                "tag": "#2LCLYLPG0",
+                "name": "KAZAKHSTAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/kSmBkqnkQFe5bByifBaSTBQCE1X0IXPtWD8nmltulyM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/kSmBkqnkQFe5bByifBaSTBQCE1X0IXPtWD8nmltulyM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/kSmBkqnkQFe5bByifBaSTBQCE1X0IXPtWD8nmltulyM.png"
+                },
+                "clanLevel": 17,
+                "stars": 29,
+                "destructionPercentage": 97.1
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240726T003058.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 13,
+                "stars": 36,
+                "destructionPercentage": 80.0,
+                "expEarned": 171
+            },
+            "opponent": {
+                "tag": "#2RVLVG0JG",
+                "name": "Almeks",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/os9ZIOOTUNXlC-3pyMZqqrP4zaZjYraQnN4eiaCkygk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/os9ZIOOTUNXlC-3pyMZqqrP4zaZjYraQnN4eiaCkygk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/os9ZIOOTUNXlC-3pyMZqqrP4zaZjYraQnN4eiaCkygk.png"
+                },
+                "clanLevel": 3,
+                "stars": 33,
+                "destructionPercentage": 76.333336
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240722T202749.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+                },
+                "clanLevel": 7,
+                "attacks": 10,
+                "stars": 27,
+                "destructionPercentage": 64.13333,
+                "expEarned": 119
+            },
+            "opponent": {
+                "tag": "#2GLYRQL8L",
+                "name": "\u300b\u2606\u300aTITANS\u300b\u2606\u300a",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/p1R7lSN_UYv9vR2P9DJ2Sjjl0-qBSRL2H0F3NQg-jfI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/p1R7lSN_UYv9vR2P9DJ2Sjjl0-qBSRL2H0F3NQg-jfI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/p1R7lSN_UYv9vR2P9DJ2Sjjl0-qBSRL2H0F3NQg-jfI.png"
+                },
+                "clanLevel": 5,
+                "stars": 42,
+                "destructionPercentage": 98.53333
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240718T173255.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 9,
+                "stars": 22,
+                "destructionPercentage": 56.666668,
+                "expEarned": 78
+            },
+            "opponent": {
+                "tag": "#90U0JUUJ",
+                "name": "/frontline GOLD",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/c6wmsUL9iDWBuxohN_Z51Dp8DzfXmMro8VdqHG4UNn8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/c6wmsUL9iDWBuxohN_Z51Dp8DzfXmMro8VdqHG4UNn8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/c6wmsUL9iDWBuxohN_Z51Dp8DzfXmMro8VdqHG4UNn8.png"
+                },
+                "clanLevel": 26,
+                "stars": 45,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240709T185611.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 86,
+                "stars": 302,
+                "destructionPercentage": 541.5333,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 177,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240628T153858.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 11,
+                "stars": 20,
+                "destructionPercentage": 36.16,
+                "expEarned": 70
+            },
+            "opponent": {
+                "tag": "#2GY8Y9YV8",
+                "name": "BHARAT\u26a1",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/rdbYeSlPUEVJ1vi1RMf9qgALb64quJxB5d8pXs967bg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/rdbYeSlPUEVJ1vi1RMf9qgALb64quJxB5d8pXs967bg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/rdbYeSlPUEVJ1vi1RMf9qgALb64quJxB5d8pXs967bg.png"
+                },
+                "clanLevel": 5,
+                "stars": 72,
+                "destructionPercentage": 97.44
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240626T001426.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 27,
+                "stars": 58,
+                "destructionPercentage": 98.55,
+                "expEarned": 227
+            },
+            "opponent": {
+                "tag": "#2QJVL9G0P",
+                "name": "The Skinwalkers",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1NBiwX4azg_SRAlSnmENx654Bgx9slcO6b7lm9ACpj4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1NBiwX4azg_SRAlSnmENx654Bgx9slcO6b7lm9ACpj4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1NBiwX4azg_SRAlSnmENx654Bgx9slcO6b7lm9ACpj4.png"
+                },
+                "clanLevel": 6,
+                "stars": 22,
+                "destructionPercentage": 42.65
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240622T235627.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 20,
+                "stars": 35,
+                "destructionPercentage": 73.05,
+                "expEarned": 138
+            },
+            "opponent": {
+                "tag": "#2LPG8UULC",
+                "name": "nebota atoben",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ln8Exx6jjkVgwWAm2c3UoamBvBgbhEAkyqkMwW6PYns.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ln8Exx6jjkVgwWAm2c3UoamBvBgbhEAkyqkMwW6PYns.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ln8Exx6jjkVgwWAm2c3UoamBvBgbhEAkyqkMwW6PYns.png"
+                },
+                "clanLevel": 7,
+                "stars": 60,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240618T214055.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 24,
+                "stars": 60,
+                "destructionPercentage": 100.0,
+                "expEarned": 235
+            },
+            "opponent": {
+                "tag": "#2GPGPLRVV",
+                "name": "Osmanli devleti",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ftbpKBCKUMcdDVti1JOLDWQA1FV25Go9WufPHvvhUbY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ftbpKBCKUMcdDVti1JOLDWQA1FV25Go9WufPHvvhUbY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ftbpKBCKUMcdDVti1JOLDWQA1FV25Go9WufPHvvhUbY.png"
+                },
+                "clanLevel": 6,
+                "stars": 55,
+                "destructionPercentage": 95.7
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240615T162344.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 21,
+                "stars": 41,
+                "destructionPercentage": 94.6,
+                "expEarned": 200
+            },
+            "opponent": {
+                "tag": "#290YPPG8Q",
+                "name": "MAX.DESTRUCTION",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png"
+                },
+                "clanLevel": 18,
+                "stars": 24,
+                "destructionPercentage": 56.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240611T041527.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+                },
+                "clanLevel": 6,
+                "attacks": 102,
+                "stars": 357,
+                "destructionPercentage": 659.06665,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 87,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240602T034134.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 21,
+                "stars": 42,
+                "destructionPercentage": 94.933334,
+                "expEarned": 194
+            },
+            "opponent": {
+                "tag": "#2R9GV89G2",
+                "name": "\u049a\u0410\u0417\u0410\u049a\u0421\u0422\u0410\u041d",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7PpKHPjys_Ue_7vFKBC-be8s-sUprfUgDgmlJQNESKw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7PpKHPjys_Ue_7vFKBC-be8s-sUprfUgDgmlJQNESKw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7PpKHPjys_Ue_7vFKBC-be8s-sUprfUgDgmlJQNESKw.png"
+                },
+                "clanLevel": 4,
+                "stars": 37,
+                "destructionPercentage": 84.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240529T233446.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 29,
+                "stars": 54,
+                "destructionPercentage": 97.85,
+                "expEarned": 172
+            },
+            "opponent": {
+                "tag": "#2RP099YQR",
+                "name": "StemB",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/21QWFvznQMS_N1__neCJdYqCiPiN6UDGGmfp3u1p7Ic.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/21QWFvznQMS_N1__neCJdYqCiPiN6UDGGmfp3u1p7Ic.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/21QWFvznQMS_N1__neCJdYqCiPiN6UDGGmfp3u1p7Ic.png"
+                },
+                "clanLevel": 3,
+                "stars": 58,
+                "destructionPercentage": 99.2
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240526T184041.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 19,
+                "stars": 40,
+                "destructionPercentage": 76.75,
+                "expEarned": 143
+            },
+            "opponent": {
+                "tag": "#2GJ98Y8V2",
+                "name": "VieuxBriscards3",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/5WSMffhecfg3Z6YYvKiIKmvsUQtLk_u__qIdNVvk7es.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/5WSMffhecfg3Z6YYvKiIKmvsUQtLk_u__qIdNVvk7es.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/5WSMffhecfg3Z6YYvKiIKmvsUQtLk_u__qIdNVvk7es.png"
+                },
+                "clanLevel": 5,
+                "stars": 55,
+                "destructionPercentage": 96.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240521T220212.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 25,
+                "stars": 40,
+                "destructionPercentage": 94.13333,
+                "expEarned": 186
+            },
+            "opponent": {
+                "tag": "#2GURVU292",
+                "name": "\u062f\u0631\u06cc\u0627 \u062f\u0644\u0627\u0646",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZQBqpyAAT0_nuBybWVqELLZJe8Doqf1U-I4c1wvrb7o.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZQBqpyAAT0_nuBybWVqELLZJe8Doqf1U-I4c1wvrb7o.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZQBqpyAAT0_nuBybWVqELLZJe8Doqf1U-I4c1wvrb7o.png"
+                },
+                "clanLevel": 5,
+                "stars": 38,
+                "destructionPercentage": 96.73333
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240519T001236.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 19,
+                "stars": 43,
+                "destructionPercentage": 98.73333,
+                "expEarned": 191
+            },
+            "opponent": {
+                "tag": "#2GCCGYGRC",
+                "name": "Exatas boy",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qmXVyFPC8ZXhtcqnnnPiZYwiJghibxAzUu3zitV2ZjE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qmXVyFPC8ZXhtcqnnnPiZYwiJghibxAzUu3zitV2ZjE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qmXVyFPC8ZXhtcqnnnPiZYwiJghibxAzUu3zitV2ZjE.png"
+                },
+                "clanLevel": 7,
+                "stars": 41,
+                "destructionPercentage": 94.86667
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240515T154318.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 39,
+                "stars": 63,
+                "destructionPercentage": 89.4,
+                "expEarned": 206
+            },
+            "opponent": {
+                "tag": "#LYYGRL2V",
+                "name": "PAKARENA CLAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/jnBa55QgONdA36VOwKFofhK2RWsMaOF2H0PSWzAPwOg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/jnBa55QgONdA36VOwKFofhK2RWsMaOF2H0PSWzAPwOg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/jnBa55QgONdA36VOwKFofhK2RWsMaOF2H0PSWzAPwOg.png"
+                },
+                "clanLevel": 14,
+                "stars": 74,
+                "destructionPercentage": 98.08
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240512T012902.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 24,
+                "stars": 51,
+                "destructionPercentage": 90.3,
+                "expEarned": 208
+            },
+            "opponent": {
+                "tag": "#2GPG0YYCJ",
+                "name": "shaitaan",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/6LZQj_aebXEsg79LwCNx_KY0r4k0ylBHZHujIWTcba8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/6LZQj_aebXEsg79LwCNx_KY0r4k0ylBHZHujIWTcba8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/6LZQj_aebXEsg79LwCNx_KY0r4k0ylBHZHujIWTcba8.png"
+                },
+                "clanLevel": 7,
+                "stars": 39,
+                "destructionPercentage": 76.65
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240508T053158.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 26,
+                "stars": 53,
+                "destructionPercentage": 93.35,
+                "expEarned": 210
+            },
+            "opponent": {
+                "tag": "#GUY8RJQ8",
+                "name": "BD MORTUZABAD",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/rX55s-ch0SJ5GZQDl08JHCN-eV_yjZ6db0A7suiT04U.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/rX55s-ch0SJ5GZQDl08JHCN-eV_yjZ6db0A7suiT04U.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/rX55s-ch0SJ5GZQDl08JHCN-eV_yjZ6db0A7suiT04U.png"
+                },
+                "clanLevel": 11,
+                "stars": 12,
+                "destructionPercentage": 20.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240505T173345.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 23,
+                "stars": 38,
+                "destructionPercentage": 72.3,
+                "expEarned": 148
+            },
+            "opponent": {
+                "tag": "#2R0Q0LRYG",
+                "name": "Made In America",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ULufnl9Um_YrnZc26wLm9bRip5XLr9O9kd6kdQcxuuk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ULufnl9Um_YrnZc26wLm9bRip5XLr9O9kd6kdQcxuuk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ULufnl9Um_YrnZc26wLm9bRip5XLr9O9kd6kdQcxuuk.png"
+                },
+                "clanLevel": 6,
+                "stars": 56,
+                "destructionPercentage": 98.4
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240501T213115.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 29,
+                "stars": 56,
+                "destructionPercentage": 77.24,
+                "expEarned": 147
+            },
+            "opponent": {
+                "tag": "#2LJR0JL9L",
+                "name": "CLAN SERIGALAH",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/akl-3rzfhoGLRAqWIfcUJRe8nnXN8b9Jupf_WbD7gFA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/akl-3rzfhoGLRAqWIfcUJRe8nnXN8b9Jupf_WbD7gFA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/akl-3rzfhoGLRAqWIfcUJRe8nnXN8b9Jupf_WbD7gFA.png"
+                },
+                "clanLevel": 5,
+                "stars": 69,
+                "destructionPercentage": 96.4
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240427T172947.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "attacks": 27,
+                "stars": 43,
+                "destructionPercentage": 77.8,
+                "expEarned": 144
+            },
+            "opponent": {
+                "tag": "#2QUC2JGVY",
+                "name": "ASTARA IRAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n_izty-u61ThW1zF5pl9oj8-8uJaTmLBDkLh06FRpo8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n_izty-u61ThW1zF5pl9oj8-8uJaTmLBDkLh06FRpo8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n_izty-u61ThW1zF5pl9oj8-8uJaTmLBDkLh06FRpo8.png"
+                },
+                "clanLevel": 9,
+                "stars": 57,
+                "destructionPercentage": 97.9
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240423T183210.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 32,
+                "stars": 47,
+                "destructionPercentage": 77.4,
+                "expEarned": 203
+            },
+            "opponent": {
+                "tag": "#2GUGL0CLR",
+                "name": "OF_UA",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/tyTQvdxU2n_yvW3K08Jo5lNxjEDz6dF0kQNYeEBZkro.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/tyTQvdxU2n_yvW3K08Jo5lNxjEDz6dF0kQNYeEBZkro.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/tyTQvdxU2n_yvW3K08Jo5lNxjEDz6dF0kQNYeEBZkro.png"
+                },
+                "clanLevel": 9,
+                "stars": 73,
+                "destructionPercentage": 98.64
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240420T200155.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 35,
+                "stars": 75,
+                "destructionPercentage": 100.0,
+                "expEarned": 260
+            },
+            "opponent": {
+                "tag": "#2Q0VGQCRQ",
+                "name": "\u5c0f\u7f8a\u54a9\u54a9",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fLkTAqehh1rY4leSi45ZlBNnvlZcYYtRAIhBHTbY8Ug.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fLkTAqehh1rY4leSi45ZlBNnvlZcYYtRAIhBHTbY8Ug.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fLkTAqehh1rY4leSi45ZlBNnvlZcYYtRAIhBHTbY8Ug.png"
+                },
+                "clanLevel": 10,
+                "stars": 63,
+                "destructionPercentage": 84.48
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240418T191415.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 39,
+                "stars": 82,
+                "destructionPercentage": 95.4,
+                "expEarned": 243
+            },
+            "opponent": {
+                "tag": "#2QJ9PRURY",
+                "name": "Askar Klate",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/XSAwkJxMU_eVL7Gxdjn1Dr9IPIwSTp0Xcv9BIFMXqs0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/XSAwkJxMU_eVL7Gxdjn1Dr9IPIwSTp0Xcv9BIFMXqs0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/XSAwkJxMU_eVL7Gxdjn1Dr9IPIwSTp0Xcv9BIFMXqs0.png"
+                },
+                "clanLevel": 11,
+                "stars": 87,
+                "destructionPercentage": 97.6
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240414T044223.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 33,
+                "stars": 77,
+                "destructionPercentage": 92.26667,
+                "expEarned": 271
+            },
+            "opponent": {
+                "tag": "#2P200Y8UP",
+                "name": "DYNASTY.ASHES",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
+                },
+                "clanLevel": 9,
+                "stars": 72,
+                "destructionPercentage": 89.333336
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240411T180827.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 37,
+                "stars": 80,
+                "destructionPercentage": 93.5,
+                "expEarned": 292
+            },
+            "opponent": {
+                "tag": "#2LYGJ8CRG",
+                "name": "EAGLE BLACK",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/BmjOrBwWWtUh-oMV2WfH5u6vPiNA9LtAx2aIE_EXdnM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/BmjOrBwWWtUh-oMV2WfH5u6vPiNA9LtAx2aIE_EXdnM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/BmjOrBwWWtUh-oMV2WfH5u6vPiNA9LtAx2aIE_EXdnM.png"
+                },
+                "clanLevel": 13,
+                "stars": 41,
+                "destructionPercentage": 48.866665
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240408T230751.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 49,
+                "stars": 86,
+                "destructionPercentage": 98.7,
+                "expEarned": 239
+            },
+            "opponent": {
+                "tag": "#2GGRVY8LL",
+                "name": "#lilbeastmode6",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/z8gc9Ubs0huvus7ag4fxOEv0EJOXFRnCXqbfsZUcY-w.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/z8gc9Ubs0huvus7ag4fxOEv0EJOXFRnCXqbfsZUcY-w.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/z8gc9Ubs0huvus7ag4fxOEv0EJOXFRnCXqbfsZUcY-w.png"
+                },
+                "clanLevel": 7,
+                "stars": 88,
+                "destructionPercentage": 98.833336
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240406T195326.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 32,
+                "stars": 68,
+                "destructionPercentage": 79.76667,
+                "expEarned": 254
+            },
+            "opponent": {
+                "tag": "#Y9YGGGYV",
+                "name": "ABCD",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Kv4ShtWkQpucBCOPUvhvW86VtBMDcrgyExyt2sl__hM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Kv4ShtWkQpucBCOPUvhvW86VtBMDcrgyExyt2sl__hM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Kv4ShtWkQpucBCOPUvhvW86VtBMDcrgyExyt2sl__hM.png"
+                },
+                "clanLevel": 11,
+                "stars": 23,
+                "destructionPercentage": 28.3
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240402T044214.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 11,
+                "stars": 19,
+                "destructionPercentage": 47.266666,
+                "expEarned": 43
+            },
+            "opponent": {
+                "tag": "#2GY08Q88Y",
+                "name": "OFFSHORE LIFE",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xpwogFoCu_VQg8Qb5WWUL-MiCT4B5v13p0VfvJRI8H4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xpwogFoCu_VQg8Qb5WWUL-MiCT4B5v13p0VfvJRI8H4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xpwogFoCu_VQg8Qb5WWUL-MiCT4B5v13p0VfvJRI8H4.png"
+                },
+                "clanLevel": 4,
+                "stars": 44,
+                "destructionPercentage": 99.933334
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240331T035801.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 10,
+                "stars": 18,
+                "destructionPercentage": 44.6,
+                "expEarned": 59
+            },
+            "opponent": {
+                "tag": "#2QQ8VJG09",
+                "name": "\u2b50\ufe0fREUNITED\u2b50\ufe0f",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/6Jd9MXEp1mdiP8d45dmIhZ4x7pJQUzHfCw3e0FwrQII.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/6Jd9MXEp1mdiP8d45dmIhZ4x7pJQUzHfCw3e0FwrQII.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/6Jd9MXEp1mdiP8d45dmIhZ4x7pJQUzHfCw3e0FwrQII.png"
+                },
+                "clanLevel": 6,
+                "stars": 44,
+                "destructionPercentage": 99.46667
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240327T235254.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 24,
+                "stars": 44,
+                "destructionPercentage": 98.73333,
+                "expEarned": 175
+            },
+            "opponent": {
+                "tag": "#2GL00UJYU",
+                "name": "ONLY KINGS",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/sqmxiFHnVpcPGCvamLI4hbN26BlhWKh_j9LUHut9HMI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/sqmxiFHnVpcPGCvamLI4hbN26BlhWKh_j9LUHut9HMI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/sqmxiFHnVpcPGCvamLI4hbN26BlhWKh_j9LUHut9HMI.png"
+                },
+                "clanLevel": 8,
+                "stars": 41,
+                "destructionPercentage": 93.6
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240325T165015.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 20,
+                "stars": 41,
+                "destructionPercentage": 97.13333,
+                "expEarned": 176
+            },
+            "opponent": {
+                "tag": "#2G88C2UQL",
+                "name": "Fireworks",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png"
+                },
+                "clanLevel": 6,
+                "stars": 40,
+                "destructionPercentage": 94.73333
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240320T154114.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "attacks": 15,
+                "stars": 32,
+                "destructionPercentage": 77.26667,
+                "expEarned": 168
+            },
+            "opponent": {
+                "tag": "#2QQ2CQPLV",
+                "name": "LORD MASUD",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/oTg23bB276Xe9I3w-bYzQHzemoq0PXfNjroh40LX5w0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/oTg23bB276Xe9I3w-bYzQHzemoq0PXfNjroh40LX5w0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/oTg23bB276Xe9I3w-bYzQHzemoq0PXfNjroh40LX5w0.png"
+                },
+                "clanLevel": 7,
+                "stars": 24,
+                "destructionPercentage": 58.8
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240316T211525.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 14,
+                "stars": 33,
+                "destructionPercentage": 75.933334,
+                "expEarned": 144
+            },
+            "opponent": {
+                "tag": "#2G2UUGY9R",
+                "name": "silen_ora",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xBUFPjQseb4ZTL3F6rsDxcLlCN_Qq2io5WfPehyZ3EM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xBUFPjQseb4ZTL3F6rsDxcLlCN_Qq2io5WfPehyZ3EM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xBUFPjQseb4ZTL3F6rsDxcLlCN_Qq2io5WfPehyZ3EM.png"
+                },
+                "clanLevel": 2,
+                "stars": 24,
+                "destructionPercentage": 59.866665
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240314T154428.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 21,
+                "stars": 43,
+                "destructionPercentage": 77.8,
+                "expEarned": 131
+            },
+            "opponent": {
+                "tag": "#2GPURJ29U",
+                "name": "TULANG CENTONG",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qfFGYJ9C0DX0MlkEiCGykuotK5VEUyZ8nsNWv-pIqp8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qfFGYJ9C0DX0MlkEiCGykuotK5VEUyZ8nsNWv-pIqp8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qfFGYJ9C0DX0MlkEiCGykuotK5VEUyZ8nsNWv-pIqp8.png"
+                },
+                "clanLevel": 6,
+                "stars": 59,
+                "destructionPercentage": 98.05
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20240311T054055.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 77,
+                "stars": 125,
+                "destructionPercentage": 308.33334,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 193,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240302T173420.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 21,
+                "stars": 42,
+                "destructionPercentage": 71.45,
+                "expEarned": 107
+            },
+            "opponent": {
+                "tag": "#2GU229JGR",
+                "name": "Anto clg binjai",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png"
+                },
+                "clanLevel": 1,
+                "stars": 48,
+                "destructionPercentage": 84.85
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240228T235510.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 16,
+                "stars": 35,
+                "destructionPercentage": 85.46667,
+                "expEarned": 153
+            },
+            "opponent": {
+                "tag": "#2GCQ8CJC2",
+                "name": "Serhendi",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/8OWR_eKgYMj6OjQ9gtWb-_7GjJReI7yRE6jXw6ES7iA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/8OWR_eKgYMj6OjQ9gtWb-_7GjJReI7yRE6jXw6ES7iA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/8OWR_eKgYMj6OjQ9gtWb-_7GjJReI7yRE6jXw6ES7iA.png"
+                },
+                "clanLevel": 3,
+                "stars": 11,
+                "destructionPercentage": 33.933334
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240224T185434.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 23,
+                "stars": 38,
+                "destructionPercentage": 91.6,
+                "expEarned": 103
+            },
+            "opponent": {
+                "tag": "#2LR9RVGQY",
+                "name": "big zgeg bb",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/O79cdVyRMWX8ok8RWNr-ADrtSM8zyG_AlA3sDLdH_Eg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/O79cdVyRMWX8ok8RWNr-ADrtSM8zyG_AlA3sDLdH_Eg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/O79cdVyRMWX8ok8RWNr-ADrtSM8zyG_AlA3sDLdH_Eg.png"
+                },
+                "clanLevel": 4,
+                "stars": 38,
+                "destructionPercentage": 94.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240222T163027.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 20,
+                "stars": 40,
+                "destructionPercentage": 96.13333,
+                "expEarned": 153
+            },
+            "opponent": {
+                "tag": "#2GCYPPUVL",
+                "name": "RAJA RM",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/6FNstcxgc9MqaAI2-xhQ2sC9d8ojDJVQQmMZhAX8I9U.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/6FNstcxgc9MqaAI2-xhQ2sC9d8ojDJVQQmMZhAX8I9U.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/6FNstcxgc9MqaAI2-xhQ2sC9d8ojDJVQQmMZhAX8I9U.png"
+                },
+                "clanLevel": 3,
+                "stars": 37,
+                "destructionPercentage": 86.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240220T072059.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "attacks": 19,
+                "stars": 39,
+                "destructionPercentage": 90.8,
+                "expEarned": 151
+            },
+            "opponent": {
+                "tag": "#2G9JQ9Y8L",
+                "name": "Systema",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "stars": 22,
+                "destructionPercentage": 53.466667
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240217T182747.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 15,
+                "stars": 27,
+                "destructionPercentage": 92.2,
+                "expEarned": 126
+            },
+            "opponent": {
+                "tag": "#2LQ8LR20G",
+                "name": "No Sleep Gangs",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ECKh7sceMPiyeR_VptCBim3VgfgXJ_ijS2Yo-9s9w_E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ECKh7sceMPiyeR_VptCBim3VgfgXJ_ijS2Yo-9s9w_E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ECKh7sceMPiyeR_VptCBim3VgfgXJ_ijS2Yo-9s9w_E.png"
+                },
+                "clanLevel": 2,
+                "stars": 24,
+                "destructionPercentage": 85.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20240215T020343.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 14,
+                "stars": 25,
+                "destructionPercentage": 82.3,
+                "expEarned": 69
+            },
+            "opponent": {
+                "tag": "#2R20VV09V",
+                "name": "SHFC",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png"
+                },
+                "clanLevel": 2,
+                "stars": 29,
+                "destructionPercentage": 95.5
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240212T031658.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 15,
+                "stars": 27,
+                "destructionPercentage": 93.2,
+                "expEarned": 129
+            },
+            "opponent": {
+                "tag": "#2QL2LU8UU",
+                "name": "SOLIDS",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/P6Ocdwpyrkt6aPSP6EfJuMXGi96Mp1YJyEBrPVgsSWo.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/P6Ocdwpyrkt6aPSP6EfJuMXGi96Mp1YJyEBrPVgsSWo.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/P6Ocdwpyrkt6aPSP6EfJuMXGi96Mp1YJyEBrPVgsSWo.png"
+                },
+                "clanLevel": 4,
+                "stars": 24,
+                "destructionPercentage": 83.3
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240209T181835.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 14,
+                "stars": 26,
+                "destructionPercentage": 93.2,
+                "expEarned": 123
+            },
+            "opponent": {
+                "tag": "#2GGPL02JJ",
+                "name": "VENGADORES",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Yw7Skb5b79qtXBFkfSC3zn3mLVRFDPsCMyMYufyGMyw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Yw7Skb5b79qtXBFkfSC3zn3mLVRFDPsCMyMYufyGMyw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Yw7Skb5b79qtXBFkfSC3zn3mLVRFDPsCMyMYufyGMyw.png"
+                },
+                "clanLevel": 1,
+                "stars": 25,
+                "destructionPercentage": 92.4
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240207T165916.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 16,
+                "stars": 26,
+                "destructionPercentage": 94.4,
+                "expEarned": 122
+            },
+            "opponent": {
+                "tag": "#RRY0CQUU",
+                "name": "1 pbw lgk",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/747slpSf8rNcYZGFY-ceCjKq9xCFU7vskT1hwnWGokk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/747slpSf8rNcYZGFY-ceCjKq9xCFU7vskT1hwnWGokk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/747slpSf8rNcYZGFY-ceCjKq9xCFU7vskT1hwnWGokk.png"
+                },
+                "clanLevel": 1,
+                "stars": 25,
+                "destructionPercentage": 87.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240205T160824.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 15,
+                "stars": 28,
+                "destructionPercentage": 95.4,
+                "expEarned": 119
+            },
+            "opponent": {
+                "tag": "#2GPVCQP2R",
+                "name": "\u0950 \u092d\u091f \u0938\u094d\u0935\u093e\u0939\u093e \u2668\ufe0f",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+                },
+                "clanLevel": 2,
+                "stars": 27,
+                "destructionPercentage": 94.8
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20240202T013542.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2GLLPQYLL",
+                "name": "Espookys",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+                },
+                "clanLevel": 2,
+                "attacks": 11,
+                "stars": 29,
+                "destructionPercentage": 98.7,
+                "expEarned": 124
+            },
+            "opponent": {
+                "tag": "#2GLRRVCLR",
+                "name": "kick donkey",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xTxZ9jw5T9R0uzrDgZwjokgE3CbNUh3a4PSp6bscHD8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xTxZ9jw5T9R0uzrDgZwjokgE3CbNUh3a4PSp6bscHD8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xTxZ9jw5T9R0uzrDgZwjokgE3CbNUh3a4PSp6bscHD8.png"
+                },
+                "clanLevel": 1,
+                "stars": 18,
+                "destructionPercentage": 73.8
+            }
+        }
+    ],
+    "paging": {
+        "cursors": {}
+    }
+}
