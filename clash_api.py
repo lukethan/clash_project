@@ -1,9 +1,7 @@
 import os
 from dotenv import load_dotenv
 import requests
-import pandas as pd
 import json
-import csv
 
 load_dotenv
 
