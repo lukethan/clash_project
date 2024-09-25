@@ -28,25 +28,23 @@ response = response.json()
 
 dt = datetime.now()
 
-directory = '/home/lukethan/projects/clash_project'
+progress_directory = '/home/lukethan/projects/clash_project/in_progress'
+finished_directory = '/home/lukethan/projects/clash_project/finished'
 
 # Create the absolute file path
-file_path = os.path.join(directory, f'war{dt.month}.{dt.day}.{dt.year}time{dt.hour}.{dt.minute}.json')
+file_path_p = os.path.join(progress_directory, f'war{dt.month}.{dt.day}.{dt.year}time{dt.hour}.{dt.minute}.json')
 
 if response["state"] == 'inWar':
-    with open(file_path, "a") as json_file:
+    with open(file_path_p, "a") as json_file:
         json.dump(response, json_file, indent=4)
         logging.info(f'Response recorded for inWar at {dt}')
 elif response["state"] == 'warEnded':
     end_time = response['endTime'][0:8]
     file_name = f'war{end_time}.json'
-    file_path = os.path.join(directory, file_name)
+    file_path = os.path.join(finished_directory, file_name)
     if os.path.exists(file_path):
         logging.info(f'{file_path} already exists')
     else:
         with open(file_path, "a") as json_file:
             json.dump(response, json_file, indent=4)
         logging.info(f"{file_path} created and response recorded at {dt}")
-
-# if __name__ == "__main__":
-#     main()
