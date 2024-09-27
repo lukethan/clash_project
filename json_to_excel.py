@@ -15,13 +15,10 @@ full_path = os.path.join(file_path, file_name)
 with open(full_path, 'r') as json_file:
     response = json.load(json_file)
 
-
 data = json_normalize(response, record_path=['clan', 'members'])
-
 
 members_df = json_normalize(response, record_path=['clan', 'members'], meta=[])
 total_members_df = members_df.copy()
-
 
 try:
     attacks_df = json_normalize(
@@ -37,10 +34,7 @@ except KeyError:
         'order', 'duration', 'member_name'
     ])
 
-
 attacks_df['attack_num'] = attacks_df.groupby('member_name').cumcount() + 1
-
-
 attacks_df['total_attacks'] = attacks_df.groupby(
     'member_name')['attack_num'].transform('max')
 
@@ -61,63 +55,41 @@ pivot_df = attacks_df.pivot_table(
         'duration'],
     aggfunc='first'
 )
-
-
 pivot_df.columns = [f"{col[0]}_{col[1]}" for col in pivot_df.columns]
-
 
 def extract_text_and_number(column_name):
     match = re.match(r'(.+?)_(\d+)', column_name)
     return (int(match.group(2)), match.group(
         1)) if match else (float('inf'), column_name)
 
-
 sorted_columns = sorted(
     pivot_df.columns,
     key=lambda x: extract_text_and_number(x))
 
-
 pivot_df = pivot_df[sorted_columns]
-
-
 final_df = pivot_df.join(total_attacks_df)
-
 
 new_name_df = final_df
 new_name_df['Avg %'] = new_name_df[[
     'destructionPercentage_1', 'destructionPercentage_2']].mean(axis=1)
 new_name_df['Total Stars'] = new_name_df[["stars_1", "stars_2"]].sum(axis=1)
 
-
-new_order = [
-    'total_attacks',
-    'Avg %',
-    'destructionPercentage_1',
-    'destructionPercentage_2',
-    'stars_1',
-    'stars_2',
-    'Total Stars']
+new_order = ['total_attacks', 'Avg %', 'destructionPercentage_1', 'destructionPercentage_2',
+             'stars_1', 'stars_2', 'Total Stars']
 new_name_df = new_name_df[new_order]
-final_name_df = new_name_df.rename(
-    columns={
-        'destructionPercentage_1': 'Attack 1 %',
-        'destructionPercentage_2': 'Attack 2 %',
-        'stars_1': 'Attack 1 Stars',
-        'stars_2': 'Attack 2 Stars',
-        'total_attacks': 'Total Attacks'})
-
+final_name_df = new_name_df.rename(columns={'destructionPercentage_1': 'Attack 1 %', 'destructionPercentage_2': 'Attack 2 %',
+                                            'stars_1': 'Attack 1 Stars', 'stars_2': 'Attack 2 Stars', 'total_attacks': 'Total Attacks'})
 
 try:
     total_members_df = total_members_df.set_index('name')
 except KeyError:
     pass
 
-
+final_name_df["Total Clan Stars"] = final_name_df['Total Stars'].sum()
 combined_df = final_name_df.reindex(total_members_df.index)
 combined_df.fillna(0, inplace=True)
 combined_df.sort_values(
     ["Total Attacks", 'Total Stars', 'Avg %'], ascending=False, inplace=True)
-
 
 def colors(row):
     if row['Total Attacks'] == 2.0:
@@ -128,7 +100,6 @@ def colors(row):
     else:
         color = "red"
     return [f'color: {color}'] * len(row)
-
 
 styled_df = combined_df.style.apply(colors, axis=1).format('{:.1f}')
 new_file = file_name.replace('.json', '.xlsx')
