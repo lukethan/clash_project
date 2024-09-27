@@ -5,8 +5,6 @@ import json
 from datetime import datetime
 import logging
 
-# def main():
-
 log_file_path = '/home/lukethan/projects/clash_project/data_to_file.log'
 
 logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
